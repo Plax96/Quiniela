@@ -1,0 +1,257 @@
+equipo,jugador,posicion,club,edad,goles,asistencias,minutos_jugados,estado_fisico,titular_probable,xg_jugador,tarjetas_amarillas,tarjetas_rojas,notas,fecha_actualizacion
+USA,Christian Pulisic,DEL,AC Milan,27.0,32.0,,,disponible,True,,2.0,0.0,"Capitán, estrella principal",2026-06-06
+USA,Ricardo Pepi,DEL,PSV Eindhoven,23.0,13.0,,,disponible,True,,0.0,0.0,9 de referencia,2026-04-26
+USA,Weston McKennie,MED,Juventus,27.0,12.0,,,disponible,True,,3.0,0.0,Motor central,2026-04-26
+USA,Brenden Aaronson,MED,Leeds United,25.0,9.0,,,disponible,True,,2.0,1.0,Banda izquierda,2026-04-26
+USA,Timothy Weah,DEL,Olympique Marseille,24.0,7.0,,,disponible,True,,1.0,2.0,Banda derecha,2026-04-26
+USA,Folarin Balogun,DEL,AS Monaco,23.0,8.0,,,disponible,True,,1.0,1.0,Delantero alternativo,2026-04-26
+USA,Antonee Robinson,DEF,Fulham,28.0,0.0,,,disponible,True,,2.0,0.0,Lateral izquierdo titular,2026-05-09
+USA,Matt Turner,POR,New England Revolution,31.0,0.0,,,disponible,False,,0.0,1.0,Portero titular,2026-05-09
+USA,Tyler Adams,MED,-,27.0,0.0,,,duda_/_lesiones_recurrentes,True,,4.0,,Crucial cuando está disponible,2026-04-26
+USA,Sergiño Dest,DEF,PSV Eindhoven,23.0,0.0,,,duda,False,,0.0,,EST: lateral derecho titular cuando disponible; hamstring injury 7-mar-2026. FAR: Declaró 'I'm almost back' ~21-abr-2026 vía Instagram USMNT. Estado: duda activa para Mundial. Confianza: Alta (ESPN),2026-04-26
+USA,Patrick Agyemang,DEL,Derby County,25.0,0.0,,,lesionado,False,,0.0,1.0,EST: Achilles tendon tear 6-abr-2026; Derby County confirmó descarte oficial del Mundial 2026. FAR: ESPN reportó lesión + confirmación de baja; BBC cubrió el impacto en plantel USA. Confianza: Alta (ESPN BBC) EST-ESPN-CARRERA: APP=119; G=36; YC=18; RC=1.,2026-05-09
+USA,Matthew Freese,POR,New York City FC,27.0,0.0,,,disponible,True,,0.0,1.0,EST: arquero USMNT en ascenso; listado en plantilla ESPN 2026. FAR: Perfilado por cobertura reciente como principal competidor por titularidad en portería. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=145; G=0; YC=11; RC=1.,2026-05-09
+USA,Patrick Schulte,POR,Columbus Crew,25.0,0.0,,,disponible,False,,0.0,0.0,EST: arquero convocado en roster USMNT 2026. FAR: alternativa de recambio en portería. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=128; G=0; YC=9; RC=0.,2026-05-09
+USA,Chris Brady,POR,Chicago Fire,22.0,0.0,,,disponible,False,,0.0,1.0,EST: arquero joven incluido en roster USMNT 2026. FAR: proyección a mediano plazo para selección mayor. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=110; G=0; YC=9; RC=1.,2026-05-09
+USA,Mark McKenzie,DEF,Toulouse,27.0,0.0,,,disponible,False,,1.0,2.0,EST: central convocado en roster USMNT 2026. FAR: opción de rotación en zaga. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=260; G=7; YC=32; RC=2.,2026-05-09
+USA,Tim Ream,DEF,Charlotte FC,38.0,0.0,,,disponible,False,,1.0,2.0,EST: defensor veterano convocado en roster USMNT 2026. FAR: liderazgo y experiencia de vestuario. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=569; G=8; YC=28; RC=2.,2026-05-09
+USA,Auston Trusty,DEF,Celtic,27.0,0.0,,,disponible,False,,1.0,5.0,EST: defensor zurdo en roster USMNT 2026. FAR: alternativa para línea de cuatro o tres centrales. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=311; G=11; YC=39; RC=5.,2026-05-09
+USA,Alex Freeman,DEF,Orlando City,21.0,0.0,,,disponible,False,,0.0,0.0,EST: lateral/defensor joven incluido en roster USMNT 2026. FAR: perfil de proyección. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=64; G=8; YC=6; RC=0.,2026-05-09
+USA,Joe Scally,DEF,Borussia Monchengladbach,23.0,0.0,,,disponible,False,,1.0,0.0,EST: lateral convocado en roster USMNT 2026. FAR: alternativa natural por ambos costados defensivos. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=187; G=5; YC=30; RC=0.,2026-05-09
+USA,Chris Richards,DEF,Crystal Palace,26.0,0.0,,,duda,False,,1.0,1.0,ESPN 2026-06-05: fuera del ultimo amistoso pre-Mundial por lesion de ligamentos en tobillo (17-may); disponibilidad para debut ante Paraguay sigue en duda.,2026-06-06
+USA,Cristian Roldan,MED,Seattle Sounders,30.0,0.0,,,disponible,False,,1.0,0.0,EST: mediocampista convocado en roster USMNT 2026. FAR: experiencia y equilibrio táctico desde banca. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=437; G=46; YC=38; RC=0.,2026-05-09
+USA,Giovanni Reyna,MED,Nottingham Forest,23.0,0.0,,,disponible,True,,1.0,0.0,EST: mediocampista ofensivo convocado en roster USMNT 2026. FAR: talento diferencial cuando está sano. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=201; G=25; YC=15; RC=0.,2026-05-09
+USA,Johnny Cardoso,MED,Real Betis,24.0,0.0,,,disponible,False,,2.0,0.0,EST: pivote convocado en roster USMNT 2026. FAR: competencia directa en medio defensivo. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=236; G=13; YC=32; RC=0.,2026-05-09
+USA,Aidan Morris,MED,Middlesbrough,24.0,0.0,,,disponible,False,,1.0,1.0,EST: mediocampista convocado en roster USMNT 2026. FAR: profundidad en doble pivote. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=196; G=7; YC=24; RC=1.,2026-05-09
+USA,Sebastian Berhalter,MED,Vancouver Whitecaps,24.0,0.0,,,disponible,False,,1.0,0.0,EST: mediocampista convocado en roster USMNT 2026. FAR: opción de control en segunda unidad. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=188; G=18; YC=40; RC=0.,2026-05-09
+USA,Malik Tillman,MED,PSV Eindhoven,23.0,0.0,,,disponible,True,,1.0,0.0,EST: mediocampista ofensivo convocado en roster USMNT 2026. FAR: aporta desequilibrio en tres cuartos. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=183; G=48; YC=18; RC=0.,2026-05-09
+USA,Tanner Tessmann,MED,Lyon,24.0,0.0,,,disponible,False,,1.0,2.0,EST: mediocampista convocado en roster USMNT 2026. FAR: alternativa física y de pase largo. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=219; G=14; YC=24; RC=2.,2026-05-09
+USA,Max Arfsten,DEL,Columbus Crew,25.0,0.0,,,disponible,False,,0.0,0.0,EST: delantero/extremo convocado en roster USMNT 2026. FAR: opción de impacto desde banca. Confianza: Alta (ESPN) EST-ESPN-CARRERA: APP=123; G=19; YC=11; RC=0.,2026-05-09
+USA,Mauricio Pochettino,DT,,54.0,0.0,,,disponible,True,,0.0,,EST: director técnico de USA desde 2024. FAR: principal responsable del sistema táctico pre-Mundial. Confianza: Alta (ESPN BBC),2026-05-09
+PAR,Miguel Almirón,MED,Atlanta United,32.0,9.0,,,disponible,True,,2.0,3.0,"Referente ofensivo, capitán alterno",2026-04-27
+PAR,Gustavo Gómez,DEF,Palmeiras,37.0,3.0,,,disponible,True,,3.0,9.0,"Capitán, defensa central líder",2026-04-27
+PAR,Julio Enciso,DEL,Strasbourg,22.0,4.0,,,disponible,False,,1.0,0.0,"21 años, talento joven clave",2026-06-06
+PAR,Diego Gómez,MED,Brighton & Hove Albion,23.0,3.0,,,disponible,True,,2.0,2.0,"Premier League, generación nueva",2026-04-27
+PAR,Ramón Sosa,DEL,Palmeiras,26.0,1.0,,,disponible,True,,1.0,0.0,EST: extremo veloz convocado en Paraguay 2026. FAR: pieza ofensiva de rotación/impacto en banda. Confianza: Alta (ESPN roster) EST-ESPN-CARRERA: APP=199; G=33; YC=20; RC=0.,2026-06-06
+PAR,Antonio Sanabria,DEL,Cremonese,30.0,7.0,,,disponible,True,,2.0,0.0,Delantero con experiencia,2026-04-27
+PAR,Fabián Balbuena,DEF,Grêmio,34.0,0.0,,,disponible,True,,3.0,2.0,Defensa central veterano,2026-04-27
+PAR,Júnior Alonso,DEF,Atlético Mineiro,30.0,3.0,,,disponible,True,,2.0,2.0,Polivalente defensivo,2026-04-27
+PAR,Andrés Cubas,MED,-,28.0,0.0,,,duda_(lesión),False,,4.0,,Mediocentro importante,2026-04-27
+PAR,Gustavo Caballero,DEL,Portsmouth (loan Santos),24.0,0.0,,,disponible,False,,0.0,0.0,EST: 2 caps Paraguay (debut: 1-0 vs Greece 28-mar-2026; gol vs Morocco 88' min 31-mar-2026 asistido por J.Cáceres). Portsmouth Championship en préstamo desde Santos. FAR: BBC 1-abr-2026 confirmó su presencia prevista en la convocatoria del Mundial 2026. Debutante internacional. Confianza: Alta (BBC) EST-ESPN-CARRERA: APP=107; G=13; YC=12; RC=0.,2026-04-27
+PAR,Omar Alderete,DEF,-,29.0,0.0,,,disponible,True,,2.0,6.0,Defensa central,2026-05-09
+PAR,Gustavo Alfaro,DT,,63.0,0.0,,,disponible,True,,0.0,,EST: director técnico de Paraguay. FAR: condujo clasificación al Mundial 2026 en CONMEBOL. Confianza: Alta (BBC),2026-05-09
+PAR,Gatito Fernández,POR,,38.0,0.0,,,disponible,False,,0.0,2.0,EST: arquero convocado en roster Paraguay 2026. FAR: portero veterano de respaldo. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=286; G=0; YC=25; RC=2.,2026-05-10
+PAR,Gastón Olveira,POR,,33.0,0.0,,,disponible,False,,0.0,0.0,EST: arquero convocado en roster Paraguay 2026. FAR: alternativa en portería. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=118; G=0; YC=12; RC=0.,2026-05-10
+PAR,Orlando Gil,POR,,25.0,0.0,,,disponible,False,,0.0,0.0,EST: arquero convocado en roster Paraguay 2026. FAR: proyección de mediano plazo. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=57; G=0; YC=4; RC=0.,2026-05-10
+PAR,Juan Cáceres,DEF,,25.0,5.0,,,disponible,True,,1.0,6.0,EST: defensor convocado en roster Paraguay 2026. FAR: aportó asistencia en amistoso vs Marruecos. Confianza: Alta (ESPN API/BBC) EST-ESPN-CARRERA: APP=172; G=5; YC=45; RC=6.,2026-05-10
+PAR,Gustavo Velázquez,DEF,,35.0,18.0,,,disponible,False,,1.0,9.0,EST: defensor convocado en roster Paraguay 2026. FAR: experiencia en línea defensiva. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=288; G=18; YC=55; RC=9.,2026-05-10
+PAR,Alan Benítez,DEF,,32.0,4.0,,,disponible,False,,1.0,1.0,EST: defensor convocado en roster Paraguay 2026. FAR: opción de recambio defensivo. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=129; G=4; YC=17; RC=1.,2026-05-10
+PAR,José Canale,DEF,,29.0,8.0,,,disponible,False,,1.0,6.0,EST: defensor convocado en roster Paraguay 2026. FAR: profundidad para zaga central. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=143; G=8; YC=25; RC=6.,2026-05-10
+PAR,Lucas Romero,MED,,32.0,10.0,,,disponible,False,,1.0,7.0,EST: mediocampista convocado en roster Paraguay 2026. FAR: equilibrio en segunda línea. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=497; G=10; YC=138; RC=7.,2026-05-10
+PAR,Kaku,MED,,31.0,42.0,,,disponible,False,,1.0,3.0,ESPN match report 2026-06-05: anoto (penal) en Paraguay 4-0 Nicaragua.,2026-06-06
+PAR,Braian Ojeda,MED,,25.0,8.0,,,disponible,False,,1.0,2.0,EST: mediocampista convocado en roster Paraguay 2026. FAR: perfil de contención/ida y vuelta. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=172; G=8; YC=27; RC=2.,2026-05-10
+PAR,Mauricio,MED,,24.0,42.0,,,disponible,False,,0.0,0.0,EST: mediocampista convocado en roster Paraguay 2026. FAR: identificado como Mauricio en listado oficial. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=263; G=42; YC=30; RC=0.,2026-05-10
+PAR,Matías Galarza,MED,,24.0,9.0,,,disponible,False,,1.0,0.0,ESPN match report 2026-06-05: anoto en Paraguay 4-0 Nicaragua.,2026-06-06
+PAR,Damián Bobadilla,MED,,24.0,17.0,,,disponible,False,,1.0,0.0,EST: mediocampista convocado en roster Paraguay 2026. FAR: recambio en mediocampo. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=177; G=17; YC=31; RC=0.,2026-05-10
+PAR,Gabriel Ávalos,DEL,,35.0,79.0,,,disponible,False,,1.0,1.0,EST: delantero convocado en roster Paraguay 2026. FAR: referencia ofensiva veterana. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=256; G=79; YC=28; RC=1.,2026-05-10
+PAR,Alex Arce,DEL,,30.0,73.0,,,disponible,False,,1.0,1.0,EST: delantero convocado en roster Paraguay 2026. FAR: alternativa en área. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=152; G=73; YC=22; RC=1.,2026-05-10
+PAR,Alexandro Maidana,DEL,,20.0,3.0,,,disponible,False,,0.0,1.0,ESPN match report 2026-06-05: anoto en Paraguay 4-0 Nicaragua.,2026-06-06
+TUR,Uğurcan Çakır,POR,Trabzonspor,29.0,0.0,,,disponible,True,,0.0,,EST: portero titular de Turquía; Trabzonspor SuperLig 2025-26. Player of the Match vs Kosovo (rating BBC 8.00): salvada clave en primera parte evitó el gol de Kosovo. FAR: BBC 31-mar-2026 lo destacó como héroe defensivo de la clasificación al Mundial. Confianza: Alta (BBC),2026-04-27
+TUR,Hakan Çalhanoğlu,MED,Inter Milan,31.0,22.0,,,disponible,True,,2.0,2.0,"Capitán, mediocentro de clase mundial",2026-04-27
+TUR,Arda Güler,MED,Real Madrid,20.0,6.0,,,disponible,True,,1.0,1.0,"21 años, joya de generación, Real Madrid",2026-04-27
+TUR,Kenan Yıldız,DEL,Juventus,20.0,5.0,,,disponible,True,,1.0,,"20 años, extremo creativo",2026-04-27
+TUR,Kerem Aktürkoğlu,DEL,Fenerbahçe,27.0,15.0,,,disponible,True,,2.0,1.0,"EST: 15 goles selección (máximo artillero activo); extremo goleador Fenerbahçe SuperLig 2025-26. Gol clasificatorio al Mundial vs Kosovo (53', remate en segundo palo). 51 caps. FAR: BBC 31-mar-2026 reportó como héroe de la clasificación al Mundial. Confianza: Alta (BBC) EST-ESPN-CARRERA: APP=290; G=86; YC=28; RC=1.",2026-06-06
+TUR,Ferdi Kadıoğlu,DEF,Brighton & Hove Albion,25.0,2.0,,,disponible,True,,1.0,,Lateral izquierdo Premier League,2026-04-27
+TUR,Merih Demiral,DEF,Al-Ahli,27.0,6.0,,,disponible,True,,3.0,4.0,Defensa central experimentado,2026-04-27
+TUR,Orkun Kökçü,MED,Benfica,24.0,3.0,,,disponible,True,,1.0,3.0,EST: 3 goles selección; mediocampista creativo en Benfica Liga Portugal 2025-26; 48 caps aprox. Vs Kosovo: asistencia técnica directa al gol de Aktürkoğlu (53') con disparo que se desvió al segundo palo. FAR: BBC confirmó su rol en el gol clasificatorio. Confianza: Alta (BBC) EST-ESPN-CARRERA: APP=299; G=56; YC=54; RC=3.,2026-06-06
+TUR,Altay Bayındır,POR,Manchester United,26.0,0.0,,,disponible,False,,0.0,,Portero suplente de alto nivel,2026-04-27
+TUR,Barış Alper Yılmaz,DEL,Galatasaray,25.0,0.0,,,disponible,True,,1.0,,Extremo rápido,2026-05-09
+TUR,Okay Yokuşlu,MED,-,31.0,0.0,,,disponible,False,,2.0,,Mediocentro defensivo,2026-05-09
+TUR,Salih Özcan,MED,-,27.0,0.0,,,disponible,False,,1.0,1.0,Mediocampista físico,2026-05-09
+TUR,Vincenzo Montella,DT,,51.0,0.0,,,disponible,True,,0.0,,EST: director técnico de Turquía. FAR: clasificó vía playoffs UEFA al Mundial 2026. Confianza: Alta (BBC),2026-05-09
+TUR,Mert Günok,POR,Besiktas,37.0,0.0,,,disponible,False,,0.0,1.0,Portero titular,2026-05-10
+TUR,Muhammed Sengezer,POR,,29.0,0.0,,,disponible,False,,0.0,0.0,EST: arquero convocado en roster Turquía 2026. FAR: profundidad de portería. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=123; G=0; YC=8; RC=0.,2026-05-10
+TUR,Kaan Ayhan,DEF,,31.0,12.0,,,disponible,False,,1.0,5.0,EST: defensor convocado en roster Turquía 2026. FAR: polivalente defensa/medio. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=345; G=12; YC=56; RC=5.,2026-05-10
+TUR,Abdülkerim Bardakci,DEF,,31.0,20.0,,,disponible,False,,1.0,4.0,EST: defensor convocado en roster Turquía 2026. FAR: opción de rotación en zaga. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=244; G=20; YC=49; RC=4.,2026-05-10
+TUR,Mert Müldür,DEF,,27.0,12.0,,,disponible,False,,1.0,2.0,EST: defensor convocado en roster Turquía 2026. FAR: alternativa por banda derecha. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=268; G=12; YC=39; RC=2.,2026-05-10
+TUR,Ozan Kabak,DEF,,26.0,15.0,,,disponible,False,,1.0,4.0,EST: defensor convocado en roster Turquía 2026. FAR: central de recambio con experiencia europea. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=182; G=15; YC=42; RC=4.,2026-05-10
+TUR,Mustafa Eskihellac,DEF,,29.0,7.0,,,disponible,False,,1.0,1.0,EST: defensor convocado en roster Turquía 2026. FAR: profundidad táctica en banda. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=182; G=7; YC=24; RC=1.,2026-05-10
+TUR,Zeki Çelik,DEF,,29.0,12.0,,,disponible,False,,1.0,4.0,EST: defensor convocado en roster Turquía 2026. FAR: lateral con experiencia internacional. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=324; G=12; YC=58; RC=4.,2026-05-10
+TUR,Eren Elmali,DEF,,25.0,4.0,,,disponible,False,,1.0,0.0,EST: defensor convocado en roster Turquía 2026. FAR: alternativa de banda izquierda. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=188; G=4; YC=33; RC=0.,2026-05-10
+TUR,Ahmetcan Kaplan,DEF,,23.0,5.0,,,disponible,False,,1.0,2.0,EST: defensor convocado en roster Turquía 2026. FAR: perfil joven de proyección. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=87; G=5; YC=20; RC=2.,2026-05-10
+TUR,Samet Akaydin,DEF,,32.0,10.0,,,disponible,False,,1.0,2.0,EST: defensor convocado en roster Turquía 2026. FAR: profundidad en central. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=150; G=10; YC=40; RC=2.,2026-05-10
+TUR,Irfan Can Kahveci,MED,,30.0,52.0,,,disponible,False,,1.0,6.0,EST: mediocampista convocado en roster Turquía 2026. FAR: recurso creativo de segunda línea. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=355; G=52; YC=65; RC=6.,2026-05-10
+TUR,Atakan Karazor,MED,,29.0,9.0,,,disponible,False,,1.0,3.0,EST: mediocampista convocado en roster Turquía 2026. FAR: equilibrio en mediocampo. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=249; G=9; YC=63; RC=3.,2026-05-10
+TUR,Ismail Yüksek,MED,,27.0,4.0,,,disponible,False,,1.0,3.0,EST: mediocampista convocado en roster Turquía 2026. FAR: opción de contención. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=150; G=4; YC=35; RC=3.,2026-05-10
+TUR,Yunus Akgün,DEL,,25.0,35.0,,,disponible,False,,1.0,0.0,EST: delantero/extremo convocado en roster Turquía 2026. FAR: alternativa en bandas. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=203; G=35; YC=15; RC=0.,2026-05-10
+TUR,Oguz Aydin,DEL,,25.0,26.0,,,disponible,False,,1.0,1.0,EST: delantero/extremo convocado en roster Turquía 2026. FAR: opción de recambio ofensivo. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=148; G=26; YC=13; RC=1.,2026-05-10
+TUR,Semih Kiliçsoy,DEL,,20.0,21.0,,,disponible,False,,0.0,2.0,EST: delantero joven convocado en roster Turquía 2026. FAR: apuesta de proyección. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=108; G=21; YC=16; RC=2.,2026-05-10
+TUR,Deniz Gül,DEL,,21.0,12.0,,,disponible,False,,0.0,0.0,EST: delantero convocado en roster Turquía 2026. FAR: profundidad de ataque. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=93; G=12; YC=8; RC=0.,2026-05-10
+AUS,Mathew Ryan,POR,Levante UD,33.0,0.0,,,disponible,True,,0.0,0.0,"Capitán, portero más caps de AUS",2026-04-27
+AUS,Awer Mabil,DEL,Castellón CF,29.0,10.0,,,disponible,True,,1.0,4.0,Extremo derecho goleador,2026-04-27
+AUS,Martin Boyle,DEL,Hibernian,33.0,10.0,,,disponible,True,,1.0,2.0,Extremo con experiencia,2026-04-27
+AUS,Ajdin Hrstić,MED,Heracles Almelo,28.0,4.0,,,disponible,True,,2.0,,EST: 4 goles selección; mediocampista creativo en Heracles Almelo Eredivisie 2025-26; 36+ caps. Jackson Irvine y Hrstić forman el eje del mediocampo australiano. FAR: BBC 15-oct-2025 lo mencionó junto a Jackson Irvine en artículo sobre por qué Australia juega en Asia. Confianza: Alta (BBC),2026-04-27
+AUS,Nestory Irankunda,DEL,Watford,20.0,5.0,,,disponible,True,,0.0,2.0,"19 años, extremo veloz",2026-04-27
+AUS,Connor Metcalfe,MED,FC St. Pauli,26.0,0.0,,,disponible,True,,2.0,1.0,Mediocampista box-to-box,2026-04-27
+AUS,Jordan Bos,DEF,Feyenoord,23.0,4.0,1.0,,disponible,True,,1.0,0.0,"EST: 4 goles selección; defensa polivalente en Feyenoord Eredivisie 2025-26; 25 caps. **Gol vs Curaçao (71') y asistencia (80', a Irankunda), BBC 31-mar-2026**. FAR: Actuación destacada vs Curaçao con gol+asistencia en el mismo partido. Jugador de Champions League con Feyenoord. Confianza: Alta (BBC/ESPN API) EST-ESPN-CARRERA: APP=146; G=18; YC=14; RC=0.",2026-06-06
+AUS,Alessandro Circati,DEF,Parma,23.0,0.0,,,disponible,True,,0.0,1.0,"EST: defensa central en Parma Serie A 2025-26; **Gol vs Curaçao (67', asistencia R.McGree, BBC 31-mar-2026)**. Emergente en la selección australiana. FAR: Participó en el amistoso vs Curaçao y marcó; en proceso de consolidación en el equipo titular. Confianza: Alta (BBC match report) EST-ESPN-CARRERA: APP=95; G=3; YC=19; RC=1.",2026-04-27
+AUS,Riley McGree,MED,Middlesbrough,26.0,0.0,1.0,,disponible,True,,1.0,0.0,"EST: mediocampista en Middlesbrough Championship 2025-26; **Asistencia vs Curaçao (67', a Circati, BBC 31-mar-2026)**. Jugador de gran motor y despliegue físico. FAR: Presencia confirmada en FIFA Series 2026; ex Charlotte FC MLS. Confianza: Alta (BBC match report) EST-ESPN-CARRERA: APP=264; G=47; YC=37; RC=0.",2026-05-09
+AUS,Lewis Miller,DEF,Blackburn Rovers,24.0,0.0,,,lesionado,False,,0.0,,"EST: lateral derecho en Blackburn Rovers Championship 2025-26; lesión grave (BBC feb 2026: 'nine months out') — DESCARTADO para el Mundial 2026. FAR: BBC reportó lesión en feb 2026 que lo dejará fuera ~9 meses, confirmando su ausencia del Mundial (jun-jul 2026). Confianza: Alta (BBC)",2026-04-27
+AUS,Marco Tilio,DEL,-,23.0,0.0,,,disponible,False,,0.0,,Talento ofensivo,2026-05-09
+AUS,Tony Popovic,DT,,52.0,0.0,,,disponible,True,,0.0,,EST: director técnico de Australia desde 2024. FAR: clasificó al Mundial 2026 con registro sólido en AFC. Confianza: Alta (BBC),2026-05-09
+AUS,Paul Izzo,POR,,31.0,0.0,,,disponible,False,,0.0,2.0,EST: arquero convocado en roster Australia 2026. FAR: opción de recambio en portería. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=238; G=0; YC=11; RC=2.,2026-05-10
+AUS,Patrick Beach,POR,,22.0,0.0,,,disponible,False,,0.0,0.0,EST: arquero convocado en roster Australia 2026. FAR: portero joven de proyección. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=65; G=0; YC=3; RC=0.,2026-05-10
+AUS,Milos Degenek,DEF,,32.0,4.0,,,disponible,False,,1.0,2.0,EST: defensor convocado en roster Australia 2026. FAR: experiencia internacional en zaga. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=195; G=4; YC=34; RC=2.,2026-05-10
+AUS,Jason Geria,DEF,,33.0,4.0,,,disponible,False,,1.0,3.0,EST: defensor convocado en roster Australia 2026. FAR: alternativa por banda. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=217; G=4; YC=31; RC=3.,2026-05-10
+AUS,Aziz Behich,DEF,,35.0,16.0,,,disponible,False,,1.0,1.0,EST: defensor convocado en roster Australia 2026. FAR: lateral con recorrido y experiencia. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=307; G=16; YC=50; RC=1.,2026-05-10
+AUS,Cameron Burgess,DEF,,30.0,16.0,,,disponible,False,,1.0,2.0,EST: defensor convocado en roster Australia 2026. FAR: opción de central titular/rotación. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=332; G=16; YC=39; RC=2.,2026-05-10
+AUS,Kye Rowles,DEF,,27.0,5.0,,,disponible,False,,1.0,4.0,EST: defensor convocado en roster Australia 2026. FAR: perfil de solidez aérea. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=277; G=5; YC=48; RC=4.,2026-05-10
+AUS,Fran Karacic,DEF,,29.0,0.0,,,disponible,False,,1.0,1.0,EST: defensor convocado en roster Australia 2026. FAR: alternativa de lateral derecho. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=47; G=0; YC=13; RC=1.,2026-05-10
+AUS,Kai Trewin,DEF,,24.0,5.0,,,disponible,False,,1.0,0.0,EST: defensor convocado en roster Australia 2026. FAR: recambio en línea defensiva. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=170; G=5; YC=20; RC=0.,2026-05-10
+AUS,Lucas Herrington,DEF,,18.0,3.0,,,disponible,False,,0.0,0.0,EST: defensor convocado en roster Australia 2026. FAR: juvenil de proyección. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=44; G=3; YC=7; RC=0.,2026-05-10
+AUS,Aiden O'Neill,MED,,27.0,10.0,,,disponible,False,,1.0,5.0,EST: mediocampista convocado en roster Australia 2026. FAR: equilibrio y despliegue físico. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=257; G=10; YC=57; RC=5.,2026-05-10
+AUS,Alex Robertson,MED,,23.0,10.0,,,disponible,False,,1.0,0.0,EST: mediocampista convocado en roster Australia 2026. FAR: opción creativa de segunda línea. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=106; G=10; YC=26; RC=0.,2026-05-10
+AUS,Patrick Yazbek,MED,,24.0,5.0,,,disponible,False,,1.0,0.0,EST: mediocampista convocado en roster Australia 2026. FAR: alternativa para rotación en medio. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=149; G=5; YC=27; RC=0.,2026-05-10
+AUS,Paul Okon,MED,,21.0,0.0,,,disponible,False,,0.0,0.0,EST: mediocampista convocado en roster Australia 2026. FAR: proyección para recambio generacional. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=32; G=0; YC=8; RC=0.,2026-05-10
+AUS,Jacob Italiano,DEL,,24.0,5.0,,,disponible,False,,0.0,0.0,EST: delantero/extremo convocado en roster Australia 2026. FAR: opción de banda en recambio. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=77; G=5; YC=6; RC=0.,2026-05-10
+AUS,Nishan Velupillay,DEL,,25.0,24.0,,,disponible,False,,0.0,0.0,EST: delantero convocado en roster Australia 2026; asistencia registrada vs Curaçao. FAR: impacto desde banca en amistosos. Confianza: Alta (ESPN API/BBC) EST-ESPN-CARRERA: APP=138; G=24; YC=6; RC=0.,2026-05-10
+AUS,Deni Juric,DEL,,28.0,0.0,,,disponible,False,,0.0,0.0,EST: delantero convocado en roster Australia 2026. FAR: alternativa de área. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=6; G=0; YC=0; RC=0.,2026-05-10
+AUS,Ante Suto,DEL,,25.0,4.0,,,disponible,False,,0.0,0.0,EST: delantero convocado en roster Australia 2026. FAR: profundidad ofensiva de la convocatoria. Confianza: Alta (ESPN API) EST-ESPN-CARRERA: APP=12; G=4; YC=2; RC=0.,2026-05-10
+AUS,Cristian Volpato,DEL,Sassuolo,22.0,,,,disponible,False,,,,ESPN 2026-06-06: cambia de Italia a Australia e integra lista de 26; Popovic confirma que puede sumar minutos pero aun por debajo del grupo en condicion fisica.,2026-06-06
+MEX,Raúl Jiménez,DEL,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+MEX,Edson Álvarez,DEF,,28.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+MEX,Santiago Gimenez,DEL,,25.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+RSA,Ronwen Williams,POR,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+RSA,Teboho Mokoena,MED,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+RSA,Lyle Foster,DEL,,25.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+KOR,Son Heung-Min,DEL,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+KOR,Kim Min-Jae,DEF,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+KOR,Lee Kang-In,MED,,25.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CZE,Patrik Schick,DEL,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CZE,Tomás Soucek,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CZE,Vladimír Coufal,DEF,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CAN,Maxime Crépeau,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CAN,Dayne St. Clair,POR,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CAN,Owen Goodman,POR,,22.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BIH,Nikola Vasiljev,POR,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BIH,Martin Zlomislic,POR,,27.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BIH,Mladen Jurkas,POR,,18.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+QAT,Meshaal Barsham,POR,,28.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+QAT,Salah Zakaria,POR,,27.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+QAT,Mahmud Abunada,POR,,26.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SUI,Yvon Mvogo,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SUI,Gregor Kobel,POR,,28.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SUI,Marvin Keller,POR,,23.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BRA,Ederson,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BRA,Alex Sandro,DEF,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BRA,Casemiro,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+MAR,Yassine Bounou,POR,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+MAR,Issa Diop,DEF,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+MAR,Sofyan Amrabat,MED,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+HAI,Johny Placide,POR,,38.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+HAI,Ricardo Adé,DEF,,36.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+HAI,Jean-Ricner Bellegarde,MED,,27.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SCO,Liam Kelly,POR,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SCO,Andrew Robertson,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SCO,Ryan Christie,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+GER,Manuel Neuer,POR,,40.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+GER,Nathaniel Brown,DEF,,22.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+GER,Pascal Gross,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CUW,Eloy Room,POR,,37.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CUW,Joshua Brenet,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CUW,Leandro Bacuna,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CIV,Alban Lafont,POR,,27.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CIV,Evan Ndicka,DEF,,26.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CIV,Seko Fofana,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ECU,Gonzalo Valle,POR,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ECU,Pervis Estupiñán,DEF,,28.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ECU,Alan Franco,MED,,27.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NED,Mark Flekken,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NED,Virgil van Dijk,DEF,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NED,Marten de Roon,MED,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+JPN,Keisuke Osako,POR,,26.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+JPN,Hiroki Ito,DEF,,27.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+JPN,Wataru Endo,MED,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SWE,Kristoffer Nordfeldt,POR,,36.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SWE,Carl Starfelt,DEF,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SWE,Ken Sema,MED,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+TUN,Sabri Ben Hessen,POR,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+TUN,Dylan Bronn,DEF,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+TUN,Rani Khedira,MED,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BEL,Thibaut Courtois,POR,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BEL,Thomas Meunier,DEF,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+BEL,Kevin De Bruyne,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+EGY,Mohamed El Shenawy,POR,,37.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+EGY,Mohamed Hany,DEF,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+EGY,Hamdy Fathy,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+IRN,Hossein Hosseini,POR,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+IRN,Shoja Khalilzadeh,DEF,,37.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+IRN,Alireza Jahanbakhsh,MED,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NZL,Max Crocombe,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NZL,Michael Boxall,DEF,,37.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NZL,Ryan Thomas,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ESP,David Raya,POR,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ESP,Eric García,DEF,,25.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ESP,Marcos Llorente,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CPV,Vozinha,POR,,40.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CPV,Stopira,DEF,,38.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CPV,Yannick Semedo,MED,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+KSA,Ahmed Al-Kassar,POR,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+KSA,Hassan Kadish,DEF,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+KSA,Salem Al-Dawsari,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+URU,Fernando Muslera,POR,,39.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+URU,Gullermo Varela,DEF,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+URU,Emiliano Martínez,MED,,26.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+FRA,Brice Samba,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+FRA,Lucas Digne,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+FRA,N'Golo Kanté,MED,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SEN,Mory Diaw,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SEN,Kalidou Koulibaly,DEF,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+SEN,Lamine Camara,MED,,22.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+IRQ,Fahad Talib,POR,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+IRQ,Frans Putros,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+IRQ,Ibrahim Bayesh,MED,,26.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NOR,Ørjan Nyland,POR,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NOR,Marcus Holmgren Pedersen,DEF,,25.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+NOR,Morten Thorsby,MED,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ARG,Emiliano Martínez,POR,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ARG,Cristian Romero,DEF,,28.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ARG,Leandro Paredes,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ALG,Luca Zidane,POR,,28.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ALG,Aïssa Mandi,DEF,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ALG,Nabil Bentaleb,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+AUT,Alexander Schlager,POR,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+AUT,David Alaba,DEF,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+AUT,Konrad Laimer,MED,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+JOR,Yazeed Abulaila,POR,,33.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+JOR,Ehsan Haddad,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+JOR,Rajaei Ayed,MED,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+POR,Rui Silva,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+POR,João Cancelo,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+POR,Bruno Fernandes,MED,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+COD,Lionel M'Pasi,POR,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+COD,Arthur Masuaku,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+COD,Gaël Kakuta,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+UZB,Botirali Ergashev,POR,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+UZB,Rustamjon Ashurmatov,DEF,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+UZB,Jamshid Iskanderov,MED,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+COL,David Ospina,POR,,37.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+COL,Daniel Muñoz,DEF,,30.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+COL,James Rodríguez,MED,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ENG,Jordan Pickford,POR,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ENG,John Stones,DEF,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+ENG,Jordan Henderson,MED,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CRO,Dominik Livakovic,POR,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CRO,Duje Caleta-Car,DEF,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+CRO,Luka Modric,MED,,40.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+GHA,Lawrence Ati-Zigi,POR,,29.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+GHA,Abdul Rahman Baba,DEF,,31.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+GHA,Thomas Partey,MED,,32.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+PAN,Luis Mejía,POR,,35.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+PAN,Roderick Miller,DEF,,34.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+PAN,Aníbal Godoy,MED,,36.0,,,,disponible,True,,,,EST: Convocado en roster ESPN 2026-06-06. FAR: Sin alerta publica confirmada en fuentes consultadas.,2026-06-06
+AUS,Joel Bos,DEF,Feyenoord,,4.0,,,disponible,True,,,,Defensa joven Eredivisie,2026-06-06
+AUS,Ajdin Hrustić,MED,Heracles Almelo,,4.0,,,disponible,True,,,,Mediocampista creativo,2026-06-06
+PAR,Alejandro Sosa,DEL,Palmeiras,,1.0,,,disponible,True,,,,Extremo rápido,2026-06-06
+TUR,Hakan Aktürkoğlu,DEL,Fenerbahçe,,15.0,,,disponible,True,,,,"Extremo goleador, máximo artillero activo",2026-06-06
+TUR,Berkay Kökçü,MED,Beşiktaş,,3.0,,,disponible,True,,,,Mediocampista creativo,2026-06-06

@@ -1,0 +1,49 @@
+equipo,codigo_fifa,grupo,ranking_fifa,confederacion,dt,esquema_tactico,estilo_juego,goles_favor,goles_contra,xg,xga,ppda,posesion_prom,pases_progresivos,efectividad_set_pieces,partidos_jugados,victorias,empates,derrotas,puntos_forma,confianza_dato,fecha_actualizacion
+Estados Unidos,USA,D,16.0,CONCACAF,Mauricio Pochettino (asumió 2024),4-3-3 / 4-2-3-1 (en definición bajo Pochettino),presión_alta_/_transición_rápida,,,,,,52.0,,,5,3,0,2,9.0,Alta,2026-06-06
+Paraguay,PAR,D,40.0,CONMEBOL,Gustavo Alfaro,4-4-2 / 4-2-3-1 (según rival),mixto,14.0,10.0,,,,45.0,,,18,7,7,4,6.0,Alta,2026-06-06
+Turquía,TUR,D,22.0,UEFA,Vincenzo Montella (italiano),4-2-3-1 / 4-3-3,mixto,6.0,4.0,,,,50.0,,,5,3,1,1,10.0,Alta,2026-06-06
+Australia,AUS,Por confirmar (fixture completo pendiente),27.0,AFC,Tony Popovic (asumió septiembre 2024),4-3-3 / 4-2-3-1,presión_alta_/_juego_directo_con_transición,,,,,,,,,16,11,4,1,9.0,Alta,2026-06-06
+Brazil,BRA,C,6.0,CONMEBOL,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Mexico,MEX,A,,CONCACAF,Javier Aguirre,,mixto,,,,,,,,,5,3,2,0,11.0,Alta,2026-06-06
+South Africa,RSA,A,,CAF,,,mixto,,,,,,,,,5,1,2,2,5.0,Alta,2026-06-06
+Korea Republic,KOR,A,,AFC,Hong Myung-Bo,,mixto,,,,,,,,,5,3,0,2,9.0,Alta,2026-06-06
+Czechia,CZE,A,,UEFA,,,mixto,,,,,,,,,5,5,0,0,15.0,Alta,2026-06-06
+Canada,CAN,B,,CONCACAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Bosnia and Herzegovina,BIH,B,,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Qatar,QAT,B,,AFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Switzerland,SUI,B,,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Morocco,MAR,C,7.0,CAF,Pendiente,,mixto,18,3,,,,53.0,,,8,5,3,0,11.0,Alta,2026-06-07
+Haiti,HAI,C,,CONCACAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Scotland,SCO,C,,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Germany,GER,E,10.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Curacao,CUW,E,,CONCACAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Cote d'Ivoire,CIV,E,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Ecuador,ECU,E,,CONMEBOL,Pendiente,,mixto,9,3,,,,56.8,,,6,3,3,0,11.0,Alta,2026-06-07
+Netherlands,NED,F,8.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Japan,JPN,F,,AFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Sweden,SWE,F,,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Tunisia,TUN,F,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Belgium,BEL,G,9.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Egypt,EGY,G,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+IR Iran,IRN,G,,AFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+New Zealand,NZL,G,,OFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Spain,ESP,H,2.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Cabo Verde,CPV,H,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Saudi Arabia,KSA,H,,AFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Uruguay,URU,H,,CONMEBOL,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+France,FRA,I,3.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Senegal,SEN,I,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Iraq,IRQ,I,,AFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Norway,NOR,I,,UEFA,Pendiente,,mixto,13,6,,,,52.4,,,6,3,2,1,8.0,Alta,2026-06-07
+Argentina,ARG,J,1.0,CONMEBOL,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Algeria,ALG,J,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Austria,AUT,J,,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Jordan,JOR,J,,AFC,Pendiente,,mixto,7,13,,,,19.4,,,6,0,3,3,3.0,Alta,2026-06-07
+Portugal,POR,K,5.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Congo DR,COD,K,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Uzbekistan,UZB,K,,AFC,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Colombia,COL,K,,CONMEBOL,Pendiente,,mixto,22,10,,,,59.8,,,9,6,1,2,9.0,Alta,2026-06-07
+England,ENG,L,4.0,UEFA,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Croatia,CRO,L,,UEFA,Pendiente,,mixto,24,11,,,,64.7,,,11,8,1,2,9.0,Alta,2026-06-07
+Ghana,GHA,L,,CAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06
+Panama,PAN,L,,CONCACAF,Pendiente,,mixto,,,,,,,,,0,0,0,0,0.0,Alta,2026-06-06

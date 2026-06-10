@@ -1,0 +1,4 @@
+partido_id,equipo_1,equipo_2,fase,fecha,ciudad,estadio,altitud_m,temperatura_c,humedad_pct,huso_horario,distancia_viaje_1_km,distancia_viaje_2_km
+USA_vs_PAR_GrupoD,USA,PAR,Grupos,2026-06-12,Por confirmar,Por confirmar,,,,UTC-5,,
+USA_vs_AUS_GrupoD,USA,AUS,Grupos,2026-06-19,Por confirmar,Por confirmar,,,,UTC-5,,
+USA_vs_TUR_GrupoD,USA,TUR,Grupos,2026-06-26,Por confirmar,Por confirmar,,,,UTC-5,,

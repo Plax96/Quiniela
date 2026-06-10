@@ -1,0 +1,23 @@
+fecha,equipo_1,equipo_2,goles_1,goles_2,resultado,competicion,fase,xg_1,xg_2,ranking_1,ranking_2,sede,neutral,fecha_actualizacion
+2026-03-28,BEL,USA,5,2,1,Amistoso,,,,,,Bélgica,True,2026-05-01
+2026-03-31,POR,USA,2,0,1,Amistoso,,,,,,Portugal,True,2026-05-01
+2026-03-27,PAR,GRE,1,0,1,Amistoso,,,,,,Paraguay,True,2026-05-01
+2026-03-31,MAR,PAR,2,1,1,Amistoso,,,,,,Marruecos,True,2026-05-01
+2026-03-31,TUR,KOS,1,0,1,Playoff WC UEFA,,,,22.0,,Turquía,False,2026-05-01
+2026-03-26,TUR,ROU,1,0,1,Playoff WC UEFA,,,,22.0,,Turquía,False,2026-05-01
+2026-03-27,AUS,CMR,1,0,1,FIFA Series,,,,27.0,,Australia,True,2026-05-01
+2026-03-31,AUS,CUR,5,1,1,FIFA Series,,,,27.0,,Australia,True,2026-05-01
+2025-06-07,TUR,USA,2,1,1,Amistoso,,,,22.0,16.0,Turquía,True,2026-05-01
+2025-06-10,MEX,TUR,1,0,1,Amistoso,,,,,,México,True,2026-05-01
+2025-11-18,ESP,TUR,2,2,X,WCQ UEFA,,,,,,España,True,2026-05-01
+2025-06-05,PAR,URU,2,0,1,WCQ CONMEBOL,,,,40.0,16.0,Paraguay,False,2026-05-01
+2025-06-10,BRA,PAR,1,0,1,WCQ CONMEBOL,,,,5.0,40.0,Brasil,False,2026-05-01
+2025-06-10,USA,SUI,0,4,2,Amistoso,,,,16.0,,,True,2026-05-01
+2026-03-31,AUS,CUW,5,1,1,FIFA Series,,,,27.0,,,,2026-06-06
+2026-03-31,PAR,MAR,1,2,2,Amistoso,,,,40.0,,,True,2026-06-06
+2025-06-10,PAR,BRA,0,1,2,WCQ CONMEBOL,,,,40.0,,,,2026-06-06
+2025-11-18,TUR,ESP,2,2,X,WCQ UEFA,,,,22.0,,,,2026-06-06
+2025-06-10,TUR,MEX,0,1,2,Amistoso,,,,22.0,,,True,2026-06-06
+2026-03-28,USA,BEL,2,5,2,Amistoso,,,,16.0,,,True,2026-06-06
+2026-03-31,USA,POR,0,2,2,Amistoso,,,,16.0,,,True,2026-06-06
+2025-06-07,USA,TUR,1,2,2,Amistoso,,,,16.0,,,True,2026-06-06
